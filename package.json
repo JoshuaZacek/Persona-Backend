@@ -1,0 +1,23 @@
+{
+  "name": "persona-backend",
+  "version": "1.0.0",
+  "description": "Backend for my real-time communication platform - Persona.",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Test not implemented\"",
+    "start": "tsc && node ./dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshuaZacek/Persona-Backend.git"
+  },
+  "author": "Joshua Zacek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JoshuaZacek/Persona-Backend/issues"
+  },
+  "homepage": "https://github.com/JoshuaZacek/Persona-Backend#readme",
+  "devDependencies": {
+    "typescript": "^5.7.3"
+  }
+}
