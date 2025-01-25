@@ -1,2 +1,2 @@
-# Persona-Backend
-Backend for my real-time communication platform - Persona.
+# Tagged-Backend
+Backend for my social-networking/social-media site, Tagged.
